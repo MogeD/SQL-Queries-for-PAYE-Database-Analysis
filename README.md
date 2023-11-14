@@ -1,6 +1,6 @@
 # SQL-Queries-for-PAYE-Database-Analysis
 
-This repository contains SQL queries for the PAYE Database Cleanse and Analysis. The queries perform various analyses on a confidential PAYE database to identify tax deductions, analyze unremitted tax deductions, and more.
+This repository contains SQL queries for the PAYE Database Analysis. The queries perform various analyses on a confidential PAYE database to identify tax deductions for 2 states, analyze unremitted tax deductions, and more.
 
 ## Dataset
 
